@@ -1,0 +1,66 @@
+<HTML> 
+<HEAD>
+<TITLE>RESUME</TITLE>
+<STYLE>
+TABLE {
+	text-align: center;
+	width: 70%;
+} 
+</STYLE>
+</HEAD> 
+
+<BODY> 
+<H1>
+	<B><U>Raveena Singh</U></B>
+</H1> 
+
+<img src="C:\Users\ravi\Desktop\scan\RAVEENA\pic.jpg" height="20%" width="12%" align="left">
+<div align="right">Email Id:raveenasingh2018@gmail.com</div> 
+<div align="right">Contact no.:+91-8920361094</div>
+<br><br><br><br><br>
+
+<H2>Career Objective</H2> 
+<P>Aim to work in a challenging work environment where I can utilise my expertise in technical skills towards the development and implementation of the new ideas contributing to the growth of the organisation.</P>
+
+<H2>Academic Details</H2> 
+<TABLE border="5">
+<TR> <TH>Course</TH> <TH>Institute/Board</TH> <TH>CGPA/Percentage</TH> <TH>Year</TH> </TR>
+<TR> <TD>B.Tech(C.S.E)</TD> <TD>JSSATE,Noida</TD> <TD>87%</TD> <TD>2017-2021</TD> </TR>
+<TR> <TD>Senior Secondary</TD> <TD>C.B.S.E.</TD> <TD>88.2%</TD> <TD>2016-2017</TD> </TR>
+<TR> <TD>Secondary</TD> <TD>C.B.S.E.</TD> <TD>10.0</TD> <TD>2014-2015</TD> </TR>
+</TABLE>
+
+<H2>Technical Knowledge</H2>
+<ul>
+	<li>Programming languages known : C, C++, Python</li>
+    <li>Web technologies known      : HTML,CSS,Javascript aand XML</li>
+    <li>Database management system  : Proficiency in mySQL</li>
+    <li>Operating systems           : Proficiency in Windows,Linux and Mac</li>
+</ul>
+
+<H2>Projects Undertaken</H2>
+<ul>
+	<li>Made an ANDROCAR controlled and run by an android app.</li>
+    <li>Made a C++ project on EMPLOYEE PAYROLL MANAGEMENT and DIABETES DETECTION.</li>
+</ul>
+
+<H2>Achievements</H2>
+<ul>
+    <li>Qualified JEE Mains in 2017</li>
+</ul>
+
+<H2>Strengths and Interpersonal Skills</H2>
+<ul>
+	<li>Good logical and conceptual thinking in Programming.</li>
+    <li>Exceptional presentation skills and communication skills.</li>
+    <li>A patient listener.</li>
+    <li>Able to take up responsibilities both as an individual and in group.</li>
+    <li>Open to new ideas, self-starter & initiative taker.</li>
+</ul>
+
+</BODY>
+</HTML>
+
+
+
+
